@@ -1,22 +1,80 @@
 <h1 align="center">Hi 👋, I'm Dharmendra Patel</h1>
-<h3 align="center">A passionate FullStack developer</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast</h3>
 
-- 🔭 I’m currently working on [Basketo(An Ecommerce Project)](https://dev.basketo.in/)
-
-- 🌱 I’m currently learning **ReactNative**
-
-- 👯 I’m looking to collaborate on **MERN Project**
-
-- 💬 Ask me about **React,Express ,Mongodb,Nodejs**
-
-- 📫 How to reach me **dharmendrapatel1322004@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dharmendra-patel8090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dharmendra-patel8090" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@dharmendrapatel8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dharmendrapatel8" height="30" width="40" /></a>
+  💻 Passionate about building scalable web applications <br/>
+  🌱 Currently learning React Native & improving system design skills
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## 🔭 Current Work
+- Working on **[Basketo - E-commerce Platform](https://dev.basketo.in/)**
+
+---
+
+## 🌱 Learning & Growth
+- React Native 📱  
+- Advanced Backend & API Optimization ⚡  
+
+---
+
+## 👯 Collaboration
+- Open to collaborate on **MERN Stack Projects**
+- Interested in real-world scalable applications
+
+---
+
+## 💬 Ask Me About
+- React ⚛️  
+- Node.js & Express 🚀  
+- MongoDB 🗄️  
+- REST APIs & Full Stack Development  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: **dharmendrapatel1322004@gmail.com**
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/dharmendra-patel8090" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="40"/>
+  </a>
+  <a href="https://www.hackerearth.com/@dharmendrapatel8" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerearth-is-a-global-hub-of-250k-developers-logo-color-tal-revivo.png" height="40"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,mysql,tailwind,bootstrap,typescript,git,c,java" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="150"/>
+</p>
+
+---
+
+## 🚀 What I Bring
+
+- ✅ Strong understanding of **Full Stack Development (MERN)**  
+- ✅ Experience in building **real-world projects**  
+- ✅ Skilled in **API integration & debugging**  
+- ✅ Focus on **clean UI & performance optimization**  
+
+---
+
+## ⚡ Fun Fact
+> I love solving real-world problems with code and continuously improving my skills 🚀
