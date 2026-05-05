@@ -9,7 +9,7 @@
 ---
 
 ## 🔭 Current Work
-- Working on **[Basketo - E-commerce Platform](https://dev.basketo.in/)**
+- Working on **[CRM - Customer Relationship Management](https://crm.mixins.in/)**
 
 ---
 
